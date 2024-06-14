@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution link](https://www.frontendmentor.io/learning-paths/getting-started-on-frontend-mentor-XJhRWRREZd/steps/666c0b41983369c5332a9e01/challenge/refactor)
+- Live Site URL: [Live link](https://blog-preview-card-woad-zeta.vercel.app/)
 
 ### Built with
 
@@ -40,4 +40,4 @@ Users should be able to:
 ## Author
 
 - Frontend Mentor - [@MistahJude](https://www.frontendmentor.io/profile/MistahJude)
-- X - [@yourusername](https://www.x.com/MistahJude)
+- X - [@MistahJude](https://www.x.com/MistahJude)
