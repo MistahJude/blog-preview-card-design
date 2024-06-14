@@ -119,14 +119,13 @@ body {
 
 .card-author__username {
   font-size: 14px;
-  font-weight: 900;
+  font-weight: 800;
 }
 
 @media screen and (min-width: 1440px) {
   .card {
     width: 384px;
     height: 522px;
-    box-shadow: 16px 16px 0 0 hsl(0, 0%, 7%);
   }
 
   .card-illustration {
@@ -143,6 +142,10 @@ body {
   .card-content__publish-date {
     font-size: 14px;
     font-weight: 600;
+  }
+
+  .card-content__title {
+    font-size: 24px;
   }
 
   .card-content__description {
